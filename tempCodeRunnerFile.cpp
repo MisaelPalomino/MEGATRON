@@ -1,0 +1,1 @@
+registros_por_sector
